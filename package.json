@@ -1,0 +1,36 @@
+{
+  "name": "jm-kernel-server",
+  "version": "1.0.0",
+  "description": "kernel-server using jm-server",
+  "main": "./lib/index",
+  "scripts": {
+    "start": "jm-server",
+    "cluster": "jm-server --cluster"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jm-root/jm-kernel-server.git"
+  },
+  "keywords": [
+    "javascript",
+    "kernel-server"
+  ],
+  "author": {
+    "name": "Jeff YU"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jm-root/jm-kernel-server/issues"
+  },
+  "homepage": "https://github.com/jm-root/jm-kernel-server",
+  "dependencies": {
+    "jm-miniapp": "^1.0.0",
+    "jm-passport": "^2.0.0",
+    "jm-passport-miniapp": "^1.0.0",
+    "jm-passport-wechat": "^1.0.0",
+    "jm-server": "^1.0.9",
+    "jm-sso": "^2.0.1",
+    "jm-user": "^1.0.25",
+    "jm-wechat": "^2.0.0"
+  }
+}
