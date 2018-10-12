@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/jm-root/jm-kernel-server",
   "dependencies": {
-    "jm-miniapp": "^1.0.0",
+    "jm-weapp": "^1.0.0",
     "jm-passport": "^2.0.0",
-    "jm-passport-miniapp": "^1.0.0",
-    "jm-passport-wechat": "^1.0.0",
+    "jm-passport-weapp": "^1.0.0",
+    "jm-passport-wechat": "^1.0.1",
     "jm-server": "^1.0.9",
     "jm-sso": "^2.0.1",
     "jm-user": "^1.0.25",

@@ -14,8 +14,8 @@ let config = {
       'jm-wechat': {
         prefix: '/wechat'
       },
-      'jm-miniapp': {
-        prefix: '/miniapp'
+      'jm-weapp': {
+        prefix: '/weapp'
       },
       'jm-passport': {
         prefix: '/passport'
@@ -35,8 +35,8 @@ let config = {
       'jm-wechat': {
         prefix: '/wechat'
       },
-      'jm-miniapp': {
-        prefix: '/miniapp'
+      'jm-weapp': {
+        prefix: '/weapp'
       },
       'jm-passport': {
         prefix: '/passport'
